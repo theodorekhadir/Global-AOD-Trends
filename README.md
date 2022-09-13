@@ -24,4 +24,4 @@ in this region. Finally, we construct a multivariate linear model to retrieve th
 in regional burned area for the period 2000-2015. We show that the regional burned area is a good parameter for estimating the trend of AOD in most 
 regions, since the covariation between biomass burning and AOD is strong due to their direct link and dependence to similar teleconnections.  
 
-Please contact me if you want to use or cite this work (theodore.khadir@aces.su.se)
+**Please contact me if you want to use or cite this work (theodore.khadir@aces.su.se)**
