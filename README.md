@@ -1,7 +1,9 @@
 # Global-AOD-Trends
 Investigation of regional AOD trends in the past 20years using AERONET and MODIS, and their link with biomass burning emissions
 
-Study-Notebook-Functions by Théodore Khadir 
+![alt text](https://github.com/theodorekhadir/dofit_python/blob/master/test.png)
+
+Study-Notebook-Functions by Théodore Khadir   
 Stockholm University, Sweden  
 Departement of Environmental Science  
 Work carried out in 2021, within the framework of the eScience course: https://nordicesmhub.github.io/forces-2021/intro.html  
