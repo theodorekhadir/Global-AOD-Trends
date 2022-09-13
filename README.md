@@ -1,12 +1,12 @@
 # Global-AOD-Trends
 Investigation of regional AOD trends in the past 20years using AERONET and MODIS, and their link with biomass burning emissions
 
-Abstract
-Notebook by Théodore Khadir
-Stockholm University, Sweden
-Departement of Environmental Science
-Work carried out in 2021, within the framework of the eScience course: https://nordicesmhub.github.io/forces-2021/intro.html
-This Notebook has been made using the Pangeo Platform
+Abstract  
+Notebook by Théodore Khadir 
+Stockholm University, Sweden  
+Departement of Environmental Science  
+Work carried out in 2021, within the framework of the eScience course: https://nordicesmhub.github.io/forces-2021/intro.html  
+This Notebook has been made using the Pangeo Platform 
 
 ## Abstract
 We investigate regional trends in aerosol optical depth (AOD) from both satellite (MODIS) and ground-based (AERONET stations) measurements 
